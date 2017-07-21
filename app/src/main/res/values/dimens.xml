@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Card View Doctors margins. -->
+    <dimen name="dimen_circlelistdoctors">90dp</dimen>
+    <dimen name="elevation_circleimageprofile">10dp</dimen>
+    <dimen name="height_cardview">130dp</dimen>
+    <dimen name="textsize_casa">16sp</dimen>
+    <dimen name="size_casa">20sp</dimen>
+    <dimen name="activity_vertical_margin">15dp</dimen>
+    <dimen name="activity_horizontal_margin">15dp</dimen>
+</resources>

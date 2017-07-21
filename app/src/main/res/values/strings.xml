@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sonidos Animales</string>
+    <string name="casa">Animales en Casa</string>
+    <string name="granja">Animales en la Granja</string>
+    <string name="selva">Animales en la Selva</string>
+    <string name="bosque">Animales en el Bosque</string>
+
+    <string name="text_casa">Animales domésticos, los cuales tenemos en nuestros hogares</string>
+    <string name="reproducir">Reproducir</string>
+    <string name="tono">Definir como tono</string>
+
+    <string name="facebook_app_id">511082062616943</string>
+    <string name="fb_login_protocol_scheme">fb511082062616943</string>
+</resources>
